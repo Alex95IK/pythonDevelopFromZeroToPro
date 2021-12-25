@@ -3,30 +3,22 @@ last_name = 'Forest'
 age = 20
 print("Hi! My name is " + first_name + " " + last_name + ", I`m " + str(age) + " years old.")
 
-print('/t Baa, baa, black sheep,
-
-Have you any wool?
-
-Yes sir, yes sir,
-
-Three bags full
+text = '''\n\t\tBaa, baa, black sheep,\n\t\tHave you any wool?
+\t\tYes sir, yes sir,
+\t\tThree bags full
 
 
 
-One for the master,
-
-One for the dame,
-
-And one for the little boy
-
-Who lives down the lane
+\t\tOne for the master,
+\t\tOne for the dame,
+\t\tAnd one for the little boy
+\t\tWho lives down the lane
 
 
 
-Baa, baa, black sheep,
+\t\tBaa, baa, black sheep,
+\t\tHave you any wool?
+\t\tYes sir, yes sir,
+\t\tThree bags full'''
 
-Have you any wool?
-
-Yes sir, yes sir,
-
-Three bags full')
+print(text)
