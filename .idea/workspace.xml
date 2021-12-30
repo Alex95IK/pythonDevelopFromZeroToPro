@@ -42,7 +42,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
-  <component name="RunManager" selected="Python.Exercise__21__Sets">
+  <component name="RunManager" selected="Python.Exercise__23__Booleans">
     <configuration name="Exercise09" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -106,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson19__Dictionares" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise__23__Booleans" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +118,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson19__Dictionares.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Admin\Desktop\pythonDevelopFromZeroToPro\Exercise__23__Booleans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -150,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise__23__Booleans" />
         <item itemvalue="Python.Exercise__21__Sets" />
         <item itemvalue="Python.Lesson__21_Sets" />
         <item itemvalue="Python.Exercise__10__Tuples" />
         <item itemvalue="Python.Exercise09" />
-        <item itemvalue="Python.Lesson19__Dictionares" />
       </list>
     </recent_temporary>
   </component>
