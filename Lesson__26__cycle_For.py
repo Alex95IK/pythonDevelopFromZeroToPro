@@ -1,14 +1,11 @@
-y = 0
-w = 0
-for x in range(5000000):
-    y = y + x
-    w = y
-    u = y + w
-    t = u + y
-print(t)
-
-
-
+# y = 0
+# w = 0
+# for x in range(5000000):
+#     y = y + x
+#     w = y
+#     u = y + w
+#     t = u + y
+# print(t)
 
 
 # list01 = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20]
