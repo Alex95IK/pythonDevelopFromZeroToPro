@@ -12,7 +12,7 @@ print(name_and_age)
 print(version02_name_and_age)
 print(version03_name_and_age)
 
-# Also we cen create KEYS for etch "Placeholder":
+# Also, we cen create KEYS for etch "Placeholder":
 week_days = 'There are 7 days is a week: {mo} {tu} {we} {th} {fr} {sa} {su}.'\
     .format(mo='Monday', we='Wednesday', th='Thursday', tu='Tuesday', fr='Friday', su='Sunday', sa='Saturday')
 
