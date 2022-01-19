@@ -4,7 +4,7 @@
 x = str(3275)
 
 for i in x[::-1]:
-    i * pow(10, i[])
+    i * pow(10, i)
 
 
 
