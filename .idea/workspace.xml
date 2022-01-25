@@ -52,8 +52,8 @@
       <recent name="D:\pythonDevelopFromZeroToPro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Lesson__65__Generator_Function">
-    <configuration name="Lesson__61__Try_Exept" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Exercise__25">
+    <configuration name="Exercise__24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +65,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__61__Try_Exept.py" />
+      <option name="SCRIPT_NAME" value="D:\pythonDevelopFromZeroToPro\Exercise__24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson__62__Else_Finally" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Exercise__25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +86,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__62__Else_Finally.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise__25.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Exercise__25" />
+        <item itemvalue="Python.Exercise__24" />
         <item itemvalue="Python.Lesson__65__Generator_Function" />
         <item itemvalue="Python.Lesson__64__Custom_Iterable" />
         <item itemvalue="Python.Lesson__63__Iterable_and_Iterator" />
-        <item itemvalue="Python.Lesson__62__Else_Finally" />
-        <item itemvalue="Python.Lesson__61__Try_Exept" />
       </list>
     </recent_temporary>
   </component>
