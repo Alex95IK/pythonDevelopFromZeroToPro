@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a2ab0e98-a50d-40e2-a202-29c1ce865d83" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson__66__Infinite_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson__66__Infinite_process.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,8 +53,8 @@
       <recent name="D:\pythonDevelopFromZeroToPro" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Exercise__25">
-    <configuration name="Exercise__24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Lesson__69__Decoration_Introduction">
+    <configuration name="Exercise__26__InfinSqNumGen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,7 +66,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\pythonDevelopFromZeroToPro\Exercise__24.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise__26__InfinSqNumGen.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Exercise__25" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson__66__Infinite_process" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exercise__25.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__66__Infinite_process.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson__63__Iterable_and_Iterator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson__67__Generator_Expressions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -107,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__63__Iterable_and_Iterator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__67__Generator_Expressions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -116,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson__64__Custom_Iterable" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson__68__Higher_Order_Functions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -128,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__64__Custom_Iterable.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__68__Higher_Order_Functions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -137,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson__65__Generator_Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Lesson__69__Decoration_Introduction" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__65__Generator_Function.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__69__Decoration_Introduction.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Exercise__25" />
-        <item itemvalue="Python.Exercise__24" />
-        <item itemvalue="Python.Lesson__65__Generator_Function" />
-        <item itemvalue="Python.Lesson__64__Custom_Iterable" />
-        <item itemvalue="Python.Lesson__63__Iterable_and_Iterator" />
+        <item itemvalue="Python.Lesson__69__Decoration_Introduction" />
+        <item itemvalue="Python.Lesson__68__Higher_Order_Functions" />
+        <item itemvalue="Python.Lesson__67__Generator_Expressions" />
+        <item itemvalue="Python.Exercise__26__InfinSqNumGen" />
+        <item itemvalue="Python.Lesson__66__Infinite_process" />
       </list>
     </recent_temporary>
   </component>
