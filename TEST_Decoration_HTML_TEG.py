@@ -3,6 +3,7 @@ def h_one(x):
         print('<h1>')
         x(*args)
         print('</h1>')
+        return x  # Why need RETURN here???
     return wrapper
 
 
