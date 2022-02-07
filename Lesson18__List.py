@@ -12,7 +12,7 @@ some_list[2] = 'NEW String'  # List is mutable object. We can change the element
 print(some_list[2])
 
 # Append Method
-some_list.append('Append New Element')      # Add element in the and of the list
+some_list.append('Append New Element')      # Add element in the end of the list
 print(some_list)
 
 # Insert Method
