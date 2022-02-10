@@ -12,4 +12,3 @@ with open('cars1.csv') as file:
     csv_reader = csv.DictReader(file, delimiter=";")
     for car in csv_reader:
         print(f'{car["Year"]} {car["Model"]} cost {car["Length"]} m')
-
