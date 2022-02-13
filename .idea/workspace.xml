@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2ab0e98-a50d-40e2-a202-29c1ce865d83" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/students.csv" beforeDir="false" afterPath="$PROJECT_DIR$/students.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlite/Save Earthquakes.py" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite/Save_Earthquakes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <recent name="D:\pythonDevelopFromZeroToPro\sqlite" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Save Earthquakes">
+  <component name="RunManager" selected="Python.Save_Earthquakes (1)">
     <configuration name="Exercise__31__CSV_Make_Function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -102,28 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lesson__95__Writer_CSV_Dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="pythonDevelopFromZeroToPro" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lesson__95__Writer_CSV_Dict.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Save Earthquakes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Save_Earthquakes (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonDevelopFromZeroToPro" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,7 +113,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite/Save Earthquakes.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sqlite/Save_Earthquakes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Save_Earthquakes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonDevelopFromZeroToPro" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/sqlite" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="D:\pythonDevelopFromZeroToPro\sqlite\Save_Earthquakes.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,11 +166,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Save Earthquakes" />
+        <item itemvalue="Python.Save_Earthquakes (1)" />
+        <item itemvalue="Python.Save_Earthquakes" />
         <item itemvalue="Python.students" />
         <item itemvalue="Python.Exercise__31__CSV_Make_Function" />
         <item itemvalue="Python.Exercise__32__CSV__Print_Function" />
-        <item itemvalue="Python.Lesson__95__Writer_CSV_Dict" />
       </list>
     </recent_temporary>
   </component>
